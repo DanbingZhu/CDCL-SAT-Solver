@@ -1,0 +1,9 @@
+# ignore the testcases
+testcases/
+simple-tests/
+# ignore the .o
+*.o
+# ignore OSX
+.DS_Store
+
+*.cnf.txt

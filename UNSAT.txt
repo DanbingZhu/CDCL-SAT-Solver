@@ -1,0 +1,25 @@
+UNSAT: 
+graph-ordering-11.cnf |
+graph-ordering-12.cnf |
+graph-ordering-13.cnf |
+graph-ordering-10.cnf |
+graph-ordering-14.cnf |
+graph-ordering-15.cnf |
+graph-ordering-16.cnf |
+graph-ordering-17.cnf |
+graph-ordering-18.cnf |
+graph-ordering-19.cnf |
+graph-ordering-2.cnf |
+graph-ordering-3.cnf |
+graph-ordering-4.cnf |
+graph-ordering-5.cnf |
+graph-ordering-6.cnf |
+graph-ordering-7.cnf |
+graph-ordering-8.cnf |
+graph-ordering-9.cnf |
+total-order-2.cnf |
+total-order-3.cnf |
+total-order-4.cnf |
+total-order-5.cnf |
+total-order-6.cnf |
+total-order-7.cnf |
